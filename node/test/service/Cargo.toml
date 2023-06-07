@@ -9,7 +9,7 @@ futures = "0.3.21"
 hex = "0.4.3"
 gum = { package = "tracing-gum", path = "../../gum" }
 rand = "0.8.5"
-tempfile = "3.2.0"
+tempfile = "3.6.0"
 tokio = "1.22.0"
 
 # Polkadot dependencies
